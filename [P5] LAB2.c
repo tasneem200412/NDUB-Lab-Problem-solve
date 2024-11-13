@@ -1,6 +1,6 @@
 
 /*The sum of ages of a Father and his daughter is 80 years.
-Father’s age is four times the age of the daughter. What are their ages?*/
+Fatherâ€™s age is four times the age of the daughter. What are their ages?*/
 
 
 
