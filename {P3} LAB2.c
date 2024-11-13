@@ -1,4 +1,4 @@
-/*Mr. X’s monthly salary is P Taka. Every month he spends A Taka for house rent,
+/*Mr. Xâ€™s monthly salary is P Taka. Every month he spends A Taka for house rent,
 B taka for household expenses. He saves the remaining money in a bank.
 What amount of money does Mr. X save in a year?*/
 
