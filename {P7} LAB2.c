@@ -19,9 +19,9 @@ int main()
     scanf("%d",&b);
 
 
-    a = a + b:
-    b = a - b
-    a = a - b
+    a = a + b;
+    b = a - b;
+    a = a - b;
 
     printf("'a'=%d(after change)\n'b'=%d(after change)\n ",a,b);
 
